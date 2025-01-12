@@ -1,6 +1,6 @@
-# Maldives Travel Planner Support
+# travel Maldives Planner and guide Support
 
-Welcome to the official support page for Maldives Travel Planner app. Here you'll find everything you need to make the most of your travel planning experience.
+Welcome to the official support page for Travel Maldives Planner and guide app. Here you'll find everything you need to make the most of your travel planning experience.
 
 ## Quick Links
 
@@ -13,7 +13,7 @@ Welcome to the official support page for Maldives Travel Planner app. Here you'l
 
 Having issues or questions? Here's how to reach us:
 - Submit an issue on this repository
-- Email: support@youremail.com
+- Email: najerh@icloud.com
 - Response time: Within 24 hours
 
 ## Features
@@ -32,7 +32,7 @@ Having issues or questions? Here's how to reach us:
 
 ## App Information
 
-Maldives Travel Planner is your ultimate companion for organizing and managing your Maldives trip. Track expenses, plan activities, and make the most of your paradise adventure.
+Travel Maldives Planner and guide is your ultimate companion for organizing and managing your Maldives trip. Track expenses, plan activities, and make the most of your paradise adventure.
 
 ## Latest Updates
 
