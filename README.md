@@ -4,10 +4,9 @@ Welcome to the official support page for Travel Maldives Planner and guide app. 
 
 ## Quick Links
 
-- [Getting Started](docs/getting-started.md)
-- [Frequently Asked Questions](docs/faq.md)
-- [Troubleshooting](docs/troubleshooting.md)
-- [Feature Requests](docs/feature-requests.md)
+- [Getting Started](doc/getting-started.md)
+- [Frequently Asked Questions](doc/faq.md)
+- [Troubleshooting](doc/troubleshooting.md)
 
 ## Contact Support
 
@@ -27,8 +26,8 @@ Having issues or questions? Here's how to reach us:
 
 ## Privacy & Terms
 
-- [Privacy Policy](docs/privacy-policy.md)
-- [Terms of Service](docs/terms-of-service.md)
+- [Privacy Policy](doc/privacy-policy.md)
+- [Terms of Service](doc/terms-of-service.md)
 
 ## App Information
 
