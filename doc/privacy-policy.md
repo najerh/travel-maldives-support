@@ -38,11 +38,6 @@ Most of your data is stored locally on your device. This includes:
 - Task lists
 - Custom settings
 
-### Cloud Storage (Optional)
-If you enable iCloud sync:
-- Your data will be synchronized across your devices
-- We use Apple's iCloud services for secure storage
-- We cannot access your iCloud data directly
 
 ## Data Sharing
 
@@ -89,9 +84,4 @@ This app complies with:
 
 ## Data Deletion
 
-To delete your data:
-1. Open the app settings
-2. Choose "Delete Account & Data"
-3. Confirm deletion
-
-Note: Local data can also be removed by uninstalling the app.
+Local data can be removed by uninstalling the app.
